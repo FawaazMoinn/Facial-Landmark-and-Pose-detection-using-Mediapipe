@@ -3,7 +3,7 @@
 ## Before normal facial landmark and hand pose
 
 
-![image](https://user-images.githubusercontent.com/69638726/227799419-6c0f4911-7b10-4069-bf21-99f5c6ca0917.png)
+![image](https://user-images.githubusercontent.com/69638726/227799539-8a81ef5f-6345-4101-9557-28416d72a957.png)
 
 
 ## After Custom Styling
